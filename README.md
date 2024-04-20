@@ -1,5 +1,2 @@
-# global_superstore_dashboard
-•	Sales insights - Global Superstore [ Power BI ]-
-•	Designed a Power bi dashboard to understand sales trend.
-•	Collecting data, interpreting data by using ETL tools and visualiza data into graphs and charts and gather useful insights in form of dashboard.
-•	This dashboard could help in increasing sales upto 30% more compared to previous year and higher profits and increase productivity by targeting right audience with creating more demand of products
+•	Spearheaded a comprehensive product portfolio analysis, aligning strategies with market demands and optimizing pricing models.
+•	Led the development and execution of an interactive Power BI dashboard, offering immediate visibility into sales patterns and facilitating evidence-based decision-making that resulted in a 15% enhancement in sales conversion rate.
